@@ -1,0 +1,24 @@
+README - By: Cory Sollberger
+
+The program works as stated by HW3:
+
+Where the following methods are working:
+
+c_k = I used the command, c 5, throughout my testing, and everything seemed to work.
+	I also have a hardcoded way to fill the roots children
+	
+s_k_d = works, and orders the children
+e_k = works
+r_k = works, but for some reason doesn't find any key past the last child of the root
+xs = works
+xa = works
+xb = works
+
+The following methods aren't working:
+xh
+d_k
+xp
+
+The project seems to work fine for the above methods, with their little bugs.
+
+Just run the commands by building a k tree, then you can modify with the other commands.
